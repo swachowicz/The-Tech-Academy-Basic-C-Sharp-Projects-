@@ -1,0 +1,7 @@
+C:\Users\swach\Source\Repos\Step67\Step67\bin\Debug\Step67.exe.config
+C:\Users\swach\Source\Repos\Step67\Step67\bin\Debug\Step67.exe
+C:\Users\swach\Source\Repos\Step67\Step67\bin\Debug\Step67.pdb
+C:\Users\swach\Source\Repos\Step67\Step67\obj\Debug\Step67.csprojAssemblyReference.cache
+C:\Users\swach\Source\Repos\Step67\Step67\obj\Debug\Step67.csproj.CoreCompileInputs.cache
+C:\Users\swach\Source\Repos\Step67\Step67\obj\Debug\Step67.exe
+C:\Users\swach\Source\Repos\Step67\Step67\obj\Debug\Step67.pdb
