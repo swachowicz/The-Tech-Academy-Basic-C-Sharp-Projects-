@@ -1,0 +1,7 @@
+C:\Users\swach\Source\Repos\Step75\Step75\bin\Debug\Step75.exe.config
+C:\Users\swach\Source\Repos\Step75\Step75\bin\Debug\Step75.exe
+C:\Users\swach\Source\Repos\Step75\Step75\bin\Debug\Step75.pdb
+C:\Users\swach\Source\Repos\Step75\Step75\obj\Debug\Step75.csprojAssemblyReference.cache
+C:\Users\swach\Source\Repos\Step75\Step75\obj\Debug\Step75.csproj.CoreCompileInputs.cache
+C:\Users\swach\Source\Repos\Step75\Step75\obj\Debug\Step75.exe
+C:\Users\swach\Source\Repos\Step75\Step75\obj\Debug\Step75.pdb
