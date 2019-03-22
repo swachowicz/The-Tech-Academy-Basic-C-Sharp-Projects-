@@ -1,0 +1,7 @@
+C:\Users\swach\Source\Repos\Step94\Step94\bin\Debug\Step94.exe.config
+C:\Users\swach\Source\Repos\Step94\Step94\bin\Debug\Step94.exe
+C:\Users\swach\Source\Repos\Step94\Step94\bin\Debug\Step94.pdb
+C:\Users\swach\Source\Repos\Step94\Step94\obj\Debug\Step94.csprojAssemblyReference.cache
+C:\Users\swach\Source\Repos\Step94\Step94\obj\Debug\Step94.csproj.CoreCompileInputs.cache
+C:\Users\swach\Source\Repos\Step94\Step94\obj\Debug\Step94.exe
+C:\Users\swach\Source\Repos\Step94\Step94\obj\Debug\Step94.pdb
